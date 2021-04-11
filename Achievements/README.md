@@ -8,4 +8,5 @@
 - ACES Coders UOP – 2020 : 8th  Place (University rank - 3rd place)
 - Hackathon Xtreme UOM – 2019 : 8th  Place
 - Winner of ACES Hackathon - 2019
+- Finalist of Robofest 2017
 - First runner up SLRC 2015
