@@ -1,0 +1,11 @@
+- Winner of Hackfest-2021
+- ETIC Certificate to Facilitate
+- SLASSCOM Ingenuity awards 2021
+- Semifinalist of Agrithon 2021
+- Finalist of hackX 2020 
+- Winner of IEEE R10 2020 Special Call For Proposals Related To CoViD'19
+- First runner up of versusCOVID 2020
+- ACES Coders UOP – 2020 : 8th  Place (University rank - 3rd place)
+- Hackathon Xtreme UOM – 2019 : 8th  Place
+- Winner of ACES Hackathon - 2019
+- First runner up SLRC 2015
