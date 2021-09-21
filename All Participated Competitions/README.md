@@ -4,6 +4,7 @@
 - Hackfest 2021 (Team Lead) - IEEE Student Branch, General Sir John Kotelawala Defense University
 - Agrithon 2021 (Team Lead) - Rotract Club, University of Kelaniya
 - Arimac Future Cast 2021 (Team Lead) - Arimac and AIESEC in Kandy.
+- Google Summer of Code 2021
 
 ## 2020
 - INVENTRA 2020 (Team Lead) - Innovators’ Club, University of Peradeniya
