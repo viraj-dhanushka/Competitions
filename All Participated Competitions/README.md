@@ -1,4 +1,6 @@
 ## 2021
+- Undergraduate Inventor of the Year 2021 (Team Lead) - IESL
+- NBQSA 2021 – The National ICT Awards (Team Lead) 
 - Hackfest 2021 (Team Lead) - IEEE Student Branch, General Sir John Kotelawala Defense University
 - Agrithon 2021 (Team Lead) - Rotract Club, University of Kelaniya
 - Arimac Future Cast 2021 (Team Lead) - Arimac and AIESEC in Kandy.
