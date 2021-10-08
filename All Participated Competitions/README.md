@@ -1,6 +1,9 @@
 ## 2021
 - Undergraduate Inventor of the Year 2021 (Team Lead) - IESL
 - NBQSA 2021 – The National ICT Awards (Team Lead) 
+- MADHACK 2021 (Team Lead) - UCSC  
+- IEEE R10 Undergraduate Student Project Video Contest 2021 (Team Lead) 
+- The Myron Zucker Undergraduate Student Design Contest (Team Lead) - IEEE IAS
 - Hackfest 2021 (Team Lead) - IEEE Student Branch, General Sir John Kotelawala Defense University
 - Agrithon 2021 (Team Lead) - Rotract Club, University of Kelaniya
 - Arimac Future Cast 2021 (Team Lead) - Arimac and AIESEC in Kandy.
@@ -27,6 +30,7 @@ Committee
 
 - IEEEXtreme 13.0 Programming Competition (Team Lead) – IEEE
 - Codefest Designathon 2019 (Team Lead) – SLIIT
+- IEEEmadC (Individual) - IEEE
 - Hakathon Xtreme 2019 – IESL Student Chapter, University of Moratuwa & IESL Young Members
 Section
 - MoraXtreme 4.0 – IEEE Student Branch, University of Moratuwa
