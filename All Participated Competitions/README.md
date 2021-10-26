@@ -60,16 +60,14 @@ University of Moratuwa
 
 ## 2010
 
-- Provincial School Educational Software Competition - Ministry of Education and Microsoft,
-Sri Lanka
+- Provincial School Educational Software Competition - Ministry of Education, Sri Lanka and Microsoft
 - Panasara Arana 2010 / Short Stories Category - Rahula College, Matara
 
 ## 2009
-- Provincial School Educational Software Competition - Ministry of Education and Microsoft, Sri Lanka
+- Provincial School Educational Software Competition - Ministry of Education, Sri Lanka and Microsoft
 
 ## 2008
-- Provincial School Educational Software Competition - Ministry of Education and Microsoft,
-Sri Lanka
+- Provincial School Educational Software Competition - Ministry of Education, Sri Lanka and Microsoft
 - Matara District Inter School Chess Championship - Rahula College, Matara
 
 ## 2007
