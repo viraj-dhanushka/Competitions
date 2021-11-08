@@ -1,3 +1,5 @@
+- Best Short Video of Undergraduate Inventor of the Year 2021 
+- Second Runner Up of Undergraduate Inventor of the Year 2021 
 - Winner of Hackfest-2021
 - ETIC Certificate to Facilitate
 - SLASSCOM Ingenuity awards 2021
