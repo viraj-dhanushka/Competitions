@@ -1,5 +1,5 @@
 ## 2021
-- Imagine Cup 2022 (Team Lead) - Microsoft 
+- 2022 Imagine Cup Epic Challenge (Team Lead) - Microsoft 
 - IEEEXtreme 15.0 Programming Competition (Team Lead) – IEEE
 - Undergraduate Inventor of the Year 2021 (Team Lead) - IESL
 - NBQSA 2021 – The National ICT Awards (Team Lead) 
