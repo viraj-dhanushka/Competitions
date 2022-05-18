@@ -1,3 +1,7 @@
+## 2022
+- WSO2 Internal Hackathon - Ballerina
+- Imagine Cup 2022 (Team Lead) - Microsoft 
+
 ## 2021
 - 2022 Imagine Cup Epic Challenge (Team Lead) - Microsoft 
 - IEEEXtreme 15.0 Programming Competition (Team Lead) – IEEE
