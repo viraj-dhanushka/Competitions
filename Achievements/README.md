@@ -1,3 +1,4 @@
+- World Finalists of Imagine Cup 2022
 - Best Short Video of Undergraduate Inventor of the Year 2021 
 - Second Runner Up of Undergraduate Inventor of the Year 2021 
 - Winner of Hackfest-2021
