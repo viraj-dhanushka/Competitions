@@ -1,4 +1,4 @@
-- Consolation prize winner
+- Consolation prize winner of WSO2 Internal Hackathon - Ballerina (2022)
 - World Finalists of Microsoft Imagine Cup 2022
 - Best Short Video of Undergraduate Inventor of the Year 2021 
 - Second Runner Up of Undergraduate Inventor of the Year 2021 
