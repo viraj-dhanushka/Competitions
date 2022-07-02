@@ -1,4 +1,5 @@
 ## 2022
+- Microsoft Identity for All Hackathon 2022 (Team Lead) - Microsoft
 - Microsoft Virtual Hackathon 2022 (Team Lead) - Microsoft 
 - WSO2 Internal Hackathon - Ballerina
 - Imagine Cup 2022 (Team Lead) - Microsoft 
