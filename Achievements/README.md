@@ -1,4 +1,4 @@
-- Shortlisted in Microsoft Virtual Hackathon 2022 (phase 1)
+- Shortlisted in Microsoft Virtual Hackathon 2022 (Phase 2 Teams)
 - Consolation prize winner of WSO2 Internal Hackathon - Ballerina (2022)
 - World Finalists of Microsoft Imagine Cup 2022
 - Best Short Video of Undergraduate Inventor of the Year 2021 
