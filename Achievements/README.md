@@ -1,17 +1,18 @@
-- Shortlisted in Microsoft Virtual Hackathon 2022 (Phase 2 Teams)
-- Consolation prize winner of WSO2 Internal Hackathon - Ballerina (2022)
-- World Finalists of Microsoft Imagine Cup 2022
-- Best Short Video of Undergraduate Inventor of the Year 2021 
-- Second Runner Up of Undergraduate Inventor of the Year 2021 
-- Winner of Hackfest-2021
-- ETIC Certificate to Facilitate
-- SLASSCOM Ingenuity awards 2021
-- Semifinalist of Agrithon 2021
-- Finalist of hackX 2020 
-- Winner of IEEE R10 2020 Special Call For Proposals Related To CoViD'19
+- Winner of Microsoft Identity for All Hackathon 2022 - Team Lead
+- Shortlisted in Microsoft Virtual Hackathon 2022 (Phase 2 Teams) - Team Lead
+- Consolation prize winner of WSO2 Internal Hackathon - Ballerina (2022) - Individual
+- World Finalists of Microsoft Imagine Cup 2022 - Team Lead
+- Best Short Video of Undergraduate Inventor of the Year 2021 - Team Lead
+- Second Runner Up of Undergraduate Inventor of the Year 2021 - Team Lead
+- Winner of Hackfest-2021 - Team Lead
+- ETIC Certificate to Facilitate - Team Lead
+- SLASSCOM Ingenuity awards 2021 - Team Lead
+- Semifinalist of Agrithon 2021 - Team Lead
+- Finalist of hackX 2020 - Team Lead 
+- Winner of IEEE R10 2020 Special Call For Proposals Related To CoViD'19 - Individual
 - First runner up of versusCOVID 2020
 - ACES Coders UOP – 2020 : 8th  Place (University rank - 3rd place)
 - Hackathon Xtreme UOM – 2019 : 8th  Place
-- Winner of ACES Hackathon - 2019
-- Finalist of Robofest 2017
+- Winner of ACES Hackathon - 2019 - Team Lead
+- Finalist of Robofest 2017 - Team Lead
 - First runner up SLRC 2015
